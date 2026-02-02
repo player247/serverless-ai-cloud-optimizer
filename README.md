@@ -44,6 +44,14 @@ The system follows an event-driven serverless architecture:
 
 ---
 
+## 📂 Project Structure
+
+Serverless/   → Serverless function logic  
+AI_Model/    → AI model training scripts  
+Data/        → Sample cloud metrics  
+
+---
+
 ## ⚙️ Tech Stack
 
 - **Programming Language:** Python  
